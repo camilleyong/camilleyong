@@ -5,7 +5,7 @@
 - 📫 How to reach me? By email!!
 - 📚 Learn More about me <a href="https://camilleyong.github.io/portfolio/">here</a>! Enjoy!
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,react,nodejs,bootstrap,express,git,github,graphql,heroku,jquery,mongodb,mysql,redux,wordpress,insomnia,figma)](https://skillicons.dev)
 
 
 <!---
