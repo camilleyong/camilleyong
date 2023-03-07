@@ -8,7 +8,7 @@
 
 ## Skills
 <br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,react,nodejs,bootstrap,express,git,github,graphql,heroku,jquery,mongodb,mysql,redux,wordpress,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,html,css,js,react,nodejs,bootstrap,express,git,github,graphql,heroku,jquery,mongodb,mysql,redux,wordpress,figma)](https://skillicons.dev)
 
 
 <!---
