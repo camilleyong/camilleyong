@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on social media, creating a website, and be with a company long term.
 - 📫 How to reach me? By email! camillemyong@gmail.com
 - 💻 Visit my <a href="https://www.linkedin.com/in/camilleyong/">LinkedIn</a>!
-- 📚 Learn More about me <a href="https://camilleyong.github.io/portfolio/">here</a>! Enjoy!
+- 📚 Learn more about me <a href="https://camilleyong.github.io/portfolio/">here</a>! Enjoy!
 - ## My Skills:
 <p align="center">
   <a href="https://skillicons.dev">
