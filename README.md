@@ -8,7 +8,7 @@
 - ## Skills
 
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,express,git,github,graphql,heroku,jquery,mongodb,mysql,redux,wordpress,figma&perline=17)<img src="https://user-images.githubusercontent.com/110850870/223591309-6b8fb370-34d4-4cea-a0e9-c7d1592fe518.png" width="170" height="90"/>
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,express,git,github,graphql,heroku,jquery,mongodb,mysql,redux,wordpress,figma&perline=17)<img src="https://user-images.githubusercontent.com/110850870/223591309-6b8fb370-34d4-4cea-a0e9-c7d1592fe518.png" width="170" height="80"/>
 
 
 <!---
