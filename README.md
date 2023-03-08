@@ -1,6 +1,6 @@
 - ## 👋 Hi, I’m Camille!
 - 👀 I’m interested in fashion, self-care, animals, food, life-style, and exploring life.
-- 🌱 I am a Software Engineer and Frontend Web Developer (MERN).
+- 🌱 I am a Frontend Software Engineer.
 - 💞️ I’m looking to collaborate on social media, creating a website, and be with a company long term.
 - 📫 How to reach me? By email! camillemyong@gmail.com
 - 💻 Visit my <a href="https://www.linkedin.com/in/camilleyong/">LinkedIn</a>!
