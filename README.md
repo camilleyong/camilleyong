@@ -5,12 +5,12 @@
 - 📫 How to reach me? By email! camillemyong@gmail.com
 - 💻 Visit my <a href="https://www.linkedin.com/in/camilleyong/">LinkedIn</a>!
 - 📚 Learn more about me <a href="https://camilleyong.github.io/portfolio/">here</a>! Enjoy!
-- ## My Skills:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,express,git,github,graphql,heroku,jquery,mongodb,mysql,redux,wordpress,figma" />
-  </a>
-</p>
+- ## Skills
+
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,express,git,github,graphql,heroku,jquery,mongodb,mysql,redux,wordpress,figma&perline=17)
+<br>
+<img src="https://user-images.githubusercontent.com/110850870/223590143-ebbe3cfc-2773-4881-bf15-a0da6f1e5de8.png"/>
 
 
 <!---
