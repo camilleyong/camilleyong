@@ -10,7 +10,8 @@
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,express,git,github,graphql,heroku,jquery,mongodb,mysql,redux,wordpress,figma&perline=17)
 <br>
-<img src="https://user-images.githubusercontent.com/110850870/223590143-ebbe3cfc-2773-4881-bf15-a0da6f1e5de8.png"/>
+<img src="https://user-images.githubusercontent.com/110850870/223590801-e43ce7ed-99ea-468c-84e8-ef7b04c1aa7c.png"/>
+
 
 
 <!---
