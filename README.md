@@ -8,7 +8,7 @@
 - ## Skills
 
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,express,git,github,graphql,heroku,jquery,mongodb,mysql,redux,wordpress,figma&perline=17)       <img src="https://user-images.githubusercontent.com/110850870/223645381-a676a98a-a5e0-43b4-9ed9-63606821a9fa.png" width="60" height="60"/>
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,express,git,github,graphql,heroku,jquery,mongodb,mysql,redux,wordpress,figma&perline=17)       <img src="https://user-images.githubusercontent.com/110850870/223645381-a676a98a-a5e0-43b4-9ed9-63606821a9fa.png" width="57" height="63"/>
 
 <!---
 camilleyong/camilleyong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
